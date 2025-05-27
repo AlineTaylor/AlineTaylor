@@ -17,7 +17,7 @@ Here's a snapshot of what I'm working with:
 - 🛠️ Angular Material
 - 🔧 Currently learning: Ruby on Rails
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineTaylor&layout=compact&theme=default&exclude_repo=AlineTaylor)
+![My Stats](https://github-readme-stats.vercel.app/api?username=AlineTaylor&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineTaylor&layout=compact&theme=default&exclude_repo=AlineTaylor)
 
 ---
 
@@ -41,7 +41,7 @@ Stay tuned! I’ll continue uploading portfolio projects here as I complete them
 
 ## 👩‍💻 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/aline-taylor)  
+- 💼 LinkedIn: [Aline Taylor](https://www.linkedin.com/in/aline-taylor)  
 - ✉️ Email: alineyui.taylor@gmail.com  
 
 Thanks for stopping by! 📚🚀
