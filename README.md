@@ -1,4 +1,4 @@
-![My Banner](https://github.com/AlineTaylor/AlineTaylor/blob/main/AlineT_LinkedInBanner13.png/)
+![My Banner](https://github.com/AlineTaylor/AlineTaylor/blob/main/AlineT_GitHubBanner.png/)
 # Hi there! I'm Aline 🌿
 
 ### Junior Front-End Developer | Full-Stack Developer in Progress
