@@ -1,3 +1,4 @@
+![My Banner](https://github.com/AlineTaylor/AlineTaylor/blob/main/AlineT_LinkedInBanner13.png/)
 # Hi there! I'm Aline 🌿
 
 ### Junior Front-End Developer | Full-Stack Developer in Progress
