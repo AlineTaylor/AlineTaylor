@@ -8,7 +8,7 @@ My coding journey started with a love of logic and a soft spot for visual storyt
 
 ---
 
-### 📊 Languages & Tools
+## 📊 Languages & Tools
 
 Here's a snapshot of what I'm working with:
 
@@ -17,25 +17,29 @@ Here's a snapshot of what I'm working with:
 - 🛠️ Angular Material
 - 🔧 Currently learning: Ruby on Rails
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineTaylor&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineTaylor&layout=compact&theme=default&exclude_repo=AlineTaylor)
 
 ---
 
-### 🐈 Fun Facts
+## 🐈 Fun Facts
 
 - I’m a **recovering biologist** who used to study ecosystems—now I build them (digitally!)  
 - I’m proudly owned by **three cats**: Flynn, Sansa, and Arya  
-- I love blending my science background with tech to create thoughtful, efficient code  
+- I love blending my analytical background with tech to create thoughtful, efficient code  
 
 ---
 
-### 📁 Recent Projects
+## 📁 Recent Projects
 
-Stay tuned! I’ll be uploading portfolio projects here as I complete them. For now, feel free to browse my pinned repositories!
+Stay tuned! I’ll continue uploading portfolio projects here as I complete them. For now, feel free to browse my pinned repositories!
+
+### 🎯 [Part Picker App](https://github.com/AlineTaylor/PC-Part-Picker-local-copy)
+🧰 _Angular | TypeScript | Angular Material_
+- An Angular-based dashboard that helps users select and track favorite computer parts, featuring user authentication, persistent storage, and a clean UI powered by Angular Material.
 
 ---
 
-### 👩‍💻 Let's Connect
+## 👩‍💻 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aline-taylor)  
 - ✉️ Email: alineyui.taylor@gmail.com  
