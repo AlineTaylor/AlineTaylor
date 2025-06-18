@@ -18,7 +18,7 @@ Here's a snapshot of what I'm working with:
 - 🛠️ Angular Material
 - 🔧 Currently learning: Ruby on Rails
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=AlineTaylor&show_icons=true&bg_color=00000000") ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineTaylor&layout=compact&theme=default&show_icons&bg_color=00000000r)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineTaylor&layout=compact&theme=default&show_icons&bg_color=00000000r)
 
 ---
 
