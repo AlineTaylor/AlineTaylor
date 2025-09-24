@@ -34,9 +34,16 @@ Here's a snapshot of what I'm working with:
 
 Stay tuned! I’ll continue uploading portfolio projects here as I complete them. For now, feel free to browse my pinned repositories!
 
-### 🎯 [Part Picker App](https://github.com/AlineTaylor/PC-Part-Picker-local-copy)
-🧰 _Angular | TypeScript | Angular Material_
-- An Angular-based dashboard that helps users select and track favorite computer parts, featuring user authentication, persistent storage, and a clean UI powered by Angular Material.
+### 🍽️ [Recipe Manager App](https://recipe-manager-eight-indol.vercel.app/welcome)
+🧰 _Angular | TypeScript | Angular Material | Ruby on Rails_
+- A full-stack application for creating, editing, and sharing recipes with nested ingredients, instructions, and labels.  
+- Features user authentication (JWT & bcrypt), measurement system preferences (metric/imperial), and Blueprinter serialization for clean API responses.  
+- Live demo available with SMTP-powered recipe sharing, API tested via Postman, and a polished Angular Material UI. _(Solo project)_  
+
+### 🖥️ [Part Picker App](https://github.com/AlineTaylor/PC-Part-Picker-local-copy)
+🧰 _Angular | TypeScript | Angular Material | Firebase_
+- An Angular-based dashboard for browsing, favoriting, and tracking computer parts.  
+- Features Google OAuth authentication, a custom Firebase API for data persistence, and a clean Angular Material interface. _(Group project)_  
 
 ---
 
