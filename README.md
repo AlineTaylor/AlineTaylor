@@ -1,21 +1,21 @@
 ![My Banner](https://github.com/AlineTaylor/AlineTaylor/blob/main/AlineT_GitHubBanner.png/)
 # Hi there! I'm Aline 🌿
 
-### Junior Front-End & Full-Stack Developer
+### Full-Stack Web Developer
 
-I'm a former biologist turned web developer with a passion for clean UI, accessible design, and creative problem-solving. I recently completed the front-end portion of an intensive Full-Stack Web Development bootcamp through Codefi, and I’m currently diving into the back-end half. 
+I'm a former biologist turned web developer with a passion for clean UI, accessible design, and creative problem-solving. I recently **graduated from Codefi’s [Full-Stack Web Development Training Program](https://www.codefiworks.com/codelabs/)**, where I focused on developing modern, user-focused web applications.  
 
-My coding journey started with a love of logic and a soft spot for visual storytelling. These days, I’m channeling that into building responsive, user-first applications that are both beautiful and intuitive.
+My coding journey started with a love of logic and a soft spot for visual storytelling. These days, I’m channeling that into creating responsive, intuitive applications that balance thoughtful design with strong technical foundations.
 
 ---
 
 ## 📊 Languages & Tools
 
-Here's a snapshot of what I'm working with:
+Here's a snapshot of what I work with:
 
-- ✨ Frontend: HTML | CSS | JavaScript | Angular | Angular Material  
-- ⚡ Backend: Ruby on Rails | SQL | JWT Authentication | API development | ERD design
-- 🚀 Dev Tools: GitHub | CLI | Postman | Firebase | Vercel | Render
+- ✨ Frontend: HTML | CSS | JavaScript | TypeScript | Angular | Angular Material  
+- ⚡ Backend: Ruby on Rails | Node.js | Express | MongoDB | SQL | JWT Authentication | API Development | ERD Design  
+- 🚀 Dev Tools: GitHub | CLI | Postman | Firebase | Vercel | Render | Trello  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineTaylor&layout=compact&theme=merko&show_icons&bg_color=00000000r)
 
@@ -29,26 +29,34 @@ Here's a snapshot of what I'm working with:
 
 ---
 
-## 📁 Recent Projects
+## 📁 Featured Projects
 
-These projects showcase my ability to deliver polished, user-focused applications—both solo full-stack work and collaborative frontend projects.
+These projects highlight my ability to design, build, and deliver polished, user-first applications—both independently and in collaborative, professional environments.
+
+### 🧡 [VizTeams](https://viz-teams-ui.vercel.app/)
+🧰 _Angular | TypeScript | Angular Material | Node.js | Express | MongoDB_
+- A team-management tool built in partnership with **Vizient** through a Codefi-sponsored capstone initiative.  
+- Developed using XP workflow with Trello under guidance from a Vizient developer acting as our PM/Senior Dev.  
+- Features a clean, Angular Material-based UI aligned with Vizient’s branding standards.  
+- Includes full authentication (signup/login/logout), drag-and-drop team member management, and role assignment with validation.  
+- Built collaboratively with one teammate and deployed via Vercel (frontend) and Render (backend).  
 
 ### 🍽️ [Recipe Manager App](https://recipe-manager-eight-indol.vercel.app/welcome)
 🧰 _Angular | TypeScript | Angular Material | Ruby on Rails_
-- A full-stack application for creating, editing, and sharing recipes with nested ingredients, instructions, and labels, backed by a relational database.  
-- Features user authentication (JWT & bcrypt), measurement system preferences (metric/imperial), and Blueprinter serialization for clean API responses.  
-- Live demo available with SMTP-powered recipe sharing, API tested via Postman, and a polished Angular Material UI. _(Solo project)_  
+- A full-stack recipe manager for creating, editing, and sharing recipes with nested ingredients, instructions, and labels.  
+- Implements user authentication (JWT & bcrypt), measurement system preferences (metric/imperial), and Blueprinter serialization for clean API responses.  
+- Features a polished Angular Material UI and SMTP-powered recipe sharing. _(Solo project)_  
 
 ### 🖥️ [Part Picker App](https://github.com/AlineTaylor/PC-Part-Picker-local-copy)
 🧰 _Angular | TypeScript | Angular Material | Firebase_
-- An Angular-based dashboard for browsing, favoriting, and tracking computer parts.  
-- Features Google OAuth authentication, a custom Firebase API for data persistence, and a clean Angular Material interface. _(Group project)_  
+- An Angular dashboard for browsing, favoriting, and tracking computer parts.  
+- Features Google OAuth authentication, a custom Firebase API for data persistence, and a modern Angular Material interface. _(Group project)_  
 
 ---
 
 ## 👩‍💻 Let's Connect
 
-- 💼 LinkedIn: [Aline Taylor](https://www.linkedin.com/in/aline-taylor)  
-- ✉️ Email: alineyui.taylor@gmail.com  
+- 💼 [LinkedIn: Aline Taylor](https://www.linkedin.com/in/aline-taylor)  
+- ✉️ **alineyui.taylor@gmail.com**  
 
 Thanks for stopping by! 📚🚀
