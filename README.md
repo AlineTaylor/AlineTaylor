@@ -47,7 +47,7 @@ These projects highlight my ability to design, build, and deliver polished, user
 - Implements user authentication (JWT & bcrypt), measurement system preferences (metric/imperial), and Blueprinter serialization for clean API responses.  
 - Features a polished Angular Material UI and SMTP-powered recipe sharing. _(Solo project)_  
 
-### 🖥️ [Part Picker App](https://github.com/AlineTaylor/PC-Part-Picker-local-copy)
+### 🖥️ [Part Picker App](https://pc-part-picker-seven.vercel.app/)
 🧰 _Angular | TypeScript | Angular Material | Firebase_
 - An Angular dashboard for browsing, favoriting, and tracking computer parts.  
 - Features Google OAuth authentication, a custom Firebase API for data persistence, and a modern Angular Material interface. _(Group project)_  
