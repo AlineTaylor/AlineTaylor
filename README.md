@@ -23,9 +23,9 @@ Here's a snapshot of what I work with:
 
 ## 🐈 Fun Facts
 
-- I’m a **recovering biologist** who used to study ecosystems—now I build them (digitally!)  
-- I’m proudly owned by **three cats**: Flynn, Sansa, and Arya  
-- I love blending my analytical background with tech to create thoughtful, efficient code  
+- I traded field notebooks for VS Code, but I still think in systems
+- My cats (Flynn, Sansa, and Arya) firmly believe they are the real project managers  
+- I’m happiest at the intersection of analysis, design, and building things that make life easier  
 
 ---
 
@@ -42,6 +42,7 @@ These projects highlight my ability to design, build, and deliver polished, user
 - Built collaboratively with one teammate and deployed via Vercel (frontend) and Render (backend).  
 
 ### 🍽️ [Recipe Manager App](https://recipe-manager-eight-indol.vercel.app/welcome)
+⚠️ Heads up: The backend uses Render’s free tier, so the API may take 20–30 seconds to spin up on first load.
 🧰 _Angular | TypeScript | Angular Material | Ruby on Rails_
 - A full-stack recipe manager for creating, editing, and sharing recipes with nested ingredients, instructions, and labels.  
 - Implements user authentication (JWT & bcrypt), measurement system preferences (metric/imperial), and Blueprinter serialization for clean API responses.  
