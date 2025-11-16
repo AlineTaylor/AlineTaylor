@@ -42,7 +42,8 @@ These projects highlight my ability to design, build, and deliver polished, user
 - Built collaboratively with one teammate and deployed via Vercel (frontend) and Render (backend).  
 
 ### 🍽️ [Recipe Manager App](https://recipe-manager-eight-indol.vercel.app/welcome)
-⚠️ Heads up: The backend uses Render’s free tier, so the API may take 20–30 seconds to spin up on first load.
+<sub>⌛ _Heads up: The backend uses Render’s free tier, so the API may take 20–30 seconds to spin up on first load._</sub>
+
 🧰 _Angular | TypeScript | Angular Material | Ruby on Rails_
 - A full-stack recipe manager for creating, editing, and sharing recipes with nested ingredients, instructions, and labels.  
 - Implements user authentication (JWT & bcrypt), measurement system preferences (metric/imperial), and Blueprinter serialization for clean API responses.  
